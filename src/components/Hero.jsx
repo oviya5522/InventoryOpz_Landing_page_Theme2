@@ -15,7 +15,7 @@ export default function Hero({ waLink }) {
             </div>
           </div>
           <div className="frame">
-            <img src="/assets/dash-overview.jpg" alt="InventoryOpz dashboard overview" />
+            <img src="/assets/dash-overview.png" alt="InventoryOpz dashboard overview" />
           </div>
         </div>
         <div className="strip">

@@ -1,10 +1,10 @@
 export const TOUR = [
-  { title: "Product Management", desc: "Organize and manage your product information from one centralized platform.", img: "/assets/stock-admin.jpg" },
-  { title: "Inventory & Stock", desc: "Keep stock information organized and get a clearer view of what you hold.", img: "/assets/stock-purchaser.jpg" },
-  { title: "Purchases", desc: "Manage purchase activity alongside your inventory in the same place.", img: "/assets/pr-list.jpg" },
-  { title: "Sales", desc: "Manage sales activity connected to your products and stock.", img: "/assets/po-list.jpg" },
-  { title: "Suppliers", desc: "Keep supplier information organized and accessible.", img: "/assets/suppliers-cards.jpg" },
-  { title: "Reports", desc: "Use organized inventory information and reports to support business decisions.", img: "/assets/opfin-dash.jpg" },
+  { title: "Product Management", desc: "Organize and manage your product information from one centralized platform.", img: "/assets/stock-admin.png" },
+  { title: "Inventory & Stock", desc: "Keep stock information organized and get a clearer view of what you hold.", img: "/assets/stock-purchaser1.png" },
+  { title: "Purchases", desc: "Manage purchase activity alongside your inventory in the same place.", img: "/assets/pr-list1.png" },
+  { title: "Sales", desc: "Manage sales activity connected to your products and stock.", img: "/assets/po-list1.png" },
+  { title: "Suppliers", desc: "Keep supplier information organized and accessible.", img: "/assets/suppliers-cards.png" },
+  { title: "Reports", desc: "Use organized inventory information and reports to support business decisions.", img: "/assets/opfin-dash1.png" },
 ];
 
 export const INDEX_ITEMS = [
@@ -26,12 +26,12 @@ export const HOW_IT_WORKS = [
 export const WHO_FOR = ["Retail", "Wholesale", "Distribution", "Dealers", "Growing inventory-based businesses"];
 
 export const SHOWCASE = [
-  { img: "/assets/opfin-dash.jpg", cap: "Operations Dashboard", cls: "s1" },
-  { img: "/assets/stock-admin.jpg", cap: "Products & Stock", cls: "s2" },
-  { img: "/assets/stock-factory.jpg", cap: "Inventory", cls: "s3" },
-  { img: "/assets/pr-list.jpg", cap: "Purchases", cls: "s4" },
-  { img: "/assets/supplier-dir.jpg", cap: "Suppliers", cls: "s5" },
-  { img: "/assets/suppliers-cards.jpg", cap: "Reports", cls: "s6" },
+  { img: "/assets/opfin-dash1.png", cap: "Operations Dashboard", cls: "s1" },
+  { img: "/assets/stock-admin.png", cap: "Products & Stock", cls: "s2" },
+  { img: "/assets/stock-factory1.png", cap: "Inventory", cls: "s3" },
+  { img: "/assets/pr-list1.png", cap: "Purchases", cls: "s4" },
+  { img: "/assets/supplier-dir1.png", cap: "Suppliers", cls: "s5" },
+  { img: "/assets/suppliers-cards.png", cap: "Reports", cls: "s6" },
 ];
 
 export const NAV_LINKS = [

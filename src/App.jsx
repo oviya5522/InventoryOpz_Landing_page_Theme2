@@ -8,6 +8,7 @@ import HowItWorks from './components/HowItWorks.jsx'
 import WhoItsFor from './components/WhoItsFor.jsx'
 import DemoVideo from './components/DemoVideo.jsx'
 import ProductShowcase from './components/ProductShowcase.jsx'
+import PurchaseWorkflow from './components/PurchaseWorkflow.jsx'
 import ClientProof from './components/ClientProof.jsx'
 import Pricing from './components/Pricing.jsx'
 import FinalCTA from './components/FinalCTA.jsx'
@@ -78,6 +79,7 @@ export default function App() {
       <Hero waLink={WA_LINK} />
       <ProductIntro onSelect={goToTour} />
       <ProductTour active={tourIndex} setActive={setTourIndex} />
+      <PurchaseWorkflow />
       <WhyInventory />
       <HowItWorks />
       <WhoItsFor />
